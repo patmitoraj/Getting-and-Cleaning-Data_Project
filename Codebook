@@ -1,0 +1,31 @@
+## Codebook
+
+**Subject**		Identifier of the subject who carried out the experiment
+**Activitys** The activity being performed by the subject. Activitys include: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+**Body acceleration signal in time domain (from the accelerometer)MEAN()-X**  Average body acceleration signal in the X direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g"
+**Body acceleration signal in time domain (from the accelerometer)MEAN()-Y**  Average body acceleration signal in the Y direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g"
+**Body acceleration signal in time domain (from the accelerometer)MEAN()-Z**  Average body acceleration signal in the Z direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g"
+**Body acceleration signal in time domain (from the accelerometer)SD()-X**  Standard deviation of body acceleration signal in the X direction
+**Body acceleration signal in time domain (from the accelerometer)SD()-Y**  Standard deviation of body acceleration signal in the Y direction
+**Body acceleration signal in time domain (from the accelerometer)SD()-Z**  Standard deviation of body acceleration signal in the Z direction
+**"Gravity acceleration signal in time domain (from the accelerometer)MEAN()X** Average gravity acceleration signal in the X direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g".
+**"Gravity acceleration signal in time domain (from the accelerometer)MEAN()Y** Average gravity acceleration signal in the Y direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g".
+**"Gravity acceleration signal in time domain (from the accelerometer)MEAN()Z** Average gravity acceleration signal in the Z direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g".
+**"Gravity acceleration signal in time domain (from the accelerometer)SD()X** Standard deviation of gravity acceleration signal in the X direction.
+**"Gravity acceleration signal in time domain (from the accelerometer)SD()Y** Standard deviation of gravity acceleration signal in the Y direction.
+**"Gravity acceleration signal in time domain (from the accelerometer)SD()Z** Standard deviation of gravity acceleration signal in the Z direction.
+**"Body acceleration jerk signal in time domain (from the accelerometer)MEAN()X** Average jerk signal in the X direction. Derived from body linear acceleration and angular velocity.
+**"Body acceleration jerk signal in time domain (from the accelerometer)MEAN()Y** Average jerk signal in the Y direction. Derived from body linear acceleration and angular velocity.
+**"Body acceleration jerk signal in time domain (from the accelerometer)MEAN()Z** Average jerk signal in the Z direction. Derived from body linear acceleration and angular velocity.
+**"Body acceleration jerk signal in time domain (from the accelerometer)MEAN()X** Average jerk signal in the X direction. Derived from body linear acceleration and angular velocity.
+**"Body acceleration jerk signal in time domain (from the accelerometer)SD()X** Standard deviation of jerk signal in the X direction.
+**"Body acceleration jerk signal in time domain (from the accelerometer)SD()Y** Standard deviation of jerk signal in the Y direction.
+**"Body acceleration jerk signal in time domain (from the accelerometer)SD()Z** Standard deviation of jerk signal in the Z direction.
+**"Body acceleration signal in time domain (from the gyroscope)MEAN()X" Average body acceleration signal in the X direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+**"Body acceleration signal in time domain (from the gyroscope)MEAN()Y" Average body acceleration signal in the Y direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+**"Body acceleration signal in time domain (from the gyroscope)MEAN()Z" Average body acceleration signal in the Z direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+**"Body acceleration signal in time domain (from the gyroscope)SD()X" Standard deviation of body acceleration signal in the X direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+**"Body acceleration signal in time domain (from the gyroscope)SD()Y" Standard deviation of body acceleration signal in the Y direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+**"Body acceleration signal in time domain (from the gyroscope)SD()Z" Standard deviation of body acceleration signal in the Z direction. Obtained from the smartphone gyroscope and measured in standar gravity units "g"
+
+
