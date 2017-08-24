@@ -1,6 +1,7 @@
 ## Codebook
 
 **Subject**		Identifier of the subject who carried out the experiment
+
 **Activitys** The activity being performed by the subject. Activitys include: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 **Body acceleration signal in time domain (from the accelerometer)MEAN()-X**  Average body acceleration signal in the X direction. Obtained from the smartphone accelerometer and measured in standar gravity units "g"
