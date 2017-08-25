@@ -68,3 +68,4 @@ names(meanstd)
 #Create tidy data set with the average of each variable for each activity and each subject
 tidydata<-meanstd%>%group_by(subject,activitys)%>%summarize_all(mean)
 write.table(tidydata, "TidyData.txt", row.name=FALSE)
+tidydata
